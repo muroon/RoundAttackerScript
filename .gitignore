@@ -1,0 +1,20 @@
+# Library
+Library/
+
+# Temp 
+Temp/
+
+# obj
+obj/
+
+# .DS_Store
+.DS_Store
+
+# .userprefs
+.userprefs
+
+# Assembly
+Assembly-*.csproj
+Assembly-*.unityproj
+
+
